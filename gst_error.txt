@@ -74,6 +74,8 @@
 3326:anuvAcana:liturg:OK
 3331:anuvAda:sipely:simply
 ;unsure, word ;sipely' not found.
+; jim agree with simply. So changing
+; scan error
 3426:anuzwuB:fourheaded:four-headed
 ;scan error
 3593:anekatA:multitudinousness:OK
@@ -178,6 +180,7 @@
 6115:aBinyAsa:hiccupping:OK
 6144:aBipramur:quited:OK
 ;unsure
+;jim 'quited, lifted up' => 'quite lifted up'
 6241:aBimihya:urined:OK
 6263:aBiyAyin:aggressing:OK
 6337:aBivAdana:salutatioin:salutation
@@ -217,6 +220,7 @@
 6655:aByaNga:anchorete:anchorite
 ;scan error
 ;not found <anchorete> as an alternate spelling
+;jim Also not sure. Will go with your anchorite.
 6655:aByaNga:oilcake:oil cake
 ;scan error
 6684:aByarcanIya:adnot:OK
@@ -225,8 +229,18 @@
 6715:aByaveta:immerged:OK
 6756:aByArohaRIya:despatches:OK
 ;page number in text file does not correspond to scan
+; thanks for mentioning.
+; 311 ok
+; 312 ok
+; 313 315
+; 314 316
+; 315 313
+; 316 314
+; 317 ok
+; 318 ok
 6758:aByAvartam:qualifiy:qualify
 ;scan error
-6770:aByAsavikAra:verbe:OK
+6770:aByAsavikAra:verbe:verbs
 ;this is a French word
 ;perhaps this could be scan error for <verbs>
+;jim Believe it is scan error for verbs. So changing

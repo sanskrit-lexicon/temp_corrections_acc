@@ -21756,7 +21756,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">cause not conveying a new notion, such repeated word or
 [Page103-a+ 56]
 <div n="lb">such expression is {#anuvAda,#} provided a certain purpose be
-<div n="lb">connected with it, otherwise it would be sipely {#punarukta#} or
+<div n="lb">connected with it, otherwise it would be simply {#punarukta#} or
 <div n="lb">a meaningless tautology, e. g. {#Gawo GawaH#} or {#GawaH kalasaH#} ‘a
 <div n="lb">jar is a jar’ would be a {#punarukta;#} but the repetition of {#paSyet#}
 <div n="lb">in Yājnav. 2. 1. from 1. 359. is an {#anuvAdaH#} because it points
@@ -47545,7 +47545,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 
 <L>6144<pc>252-b<k1>aBipramur<k2>aBipramur
 {#aBipramur#}¦ Tatpur. m. f. n. ({#-mUH-mUH-mUH#}) (ved.) 1. Quite raised,
-<div n="lb">quited, lifted up.
+<div n="lb">quite lifted up.
 <div n="P">II. Quite surrounded by; (as a ladle quite surrounded by,
 <div n="lb">i. e. quite filled with, clarified butter). Either interpretation
 <div n="lb">is admitted by {%Sāyaṇa%} on {%Ṛgv.:%} {#aBipramurA juhvA svaDvara#}
@@ -57143,7 +57143,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 {#aByAsavikAra#}¦ Tatpur. m. ({#-raH#}) (In comm. on {%Pāṇini.%}) The
 <div n="lb">change (esp. of the vowel) in the syllable of reduplication;
 <div n="lb">(as Guṇa or prolongation of the vowel in such a syllable
-<div n="lb">of the intens. verbe: {#cecIyate, lolUyate, pApacyate, yAya-#}
+<div n="lb">of the intens. verbs: {#cecIyate, lolUyate, pApacyate, yAya-#}
 <div n="lb">{#jIti#}); e. g. a {%Vārtt.%} to {%Pāṇ.:%} {#na vAByAsavikArezvapavAda-#}
 <div n="lb">{#syotsargabADakatvAt;#} or a {%Paribhāṣā:%} {#aByAsavikArezvapa-#}
 <div n="lb">{#vAdA utsargAnviDInna bADante#}. E. {#aByAsa#} and {#vikAra#}.
