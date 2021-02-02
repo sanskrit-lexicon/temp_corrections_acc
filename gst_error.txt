@@ -29,6 +29,8 @@
 1765:aDaHpuzpI:anisun:anisum
 ;scan error
 1785:aDara:loe:loc
+1786:aDara:mase.:masc.
+; jim noticed while reviewing.  Typo occurs twice.
 1830:aDika:fourty:forty
 ;scan error
 1849:aDikalpin:shrewed:shrewd
