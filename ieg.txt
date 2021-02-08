@@ -449,7 +449,7 @@
 
 <L>29<pc>002<k1>aBIzwadevatA<k2>aBIzwa-devatA
 {%abhīṣṭa-devatā%}¦ (IA 18), same as {%iṣṭa-devatā;%} the favourite
-<div n="lb">deity; the tulelary deity.
+<div n="lb">deity; the tutelary deity.
 <LEND>
 
 <L>30<pc>002<k1>aBisTAna<k2>aBisTAna
@@ -20683,7 +20683,7 @@
 <LEND>
 
 <L>3818<pc>219<k1>niryAmaka<k2>niryAmaka
-{%Niryāmaka%}¦ (LP), probably, an officer who allowed licenced
+{%Niryāmaka%}¦ (LP), probably, an officer who allowed licensed
 <div n="lb">articles to pass.
 <LEND>
 
@@ -20800,7 +20800,7 @@
 
 <L>3841<pc>220<k1>nivartana<k2>nivartana
 {%nivartana%}¦ (IE 8-6; EI 21, 26, 28; CII 4), an area of land,
-<div n="lb">which was not the same in different ages and localties. See
+<div n="lb">which was not the same in different ages and localities. See
 <div n="lb">{%Ind. Ep.,%} pp. 409-10; also {%Matsya Purāṇa,%} 283. 14-15, represent-
 <div n="lb">ing a {%gocarman%} as (2/3) of a {%nivartana%} (210×210 sq. cubits).
 <div n="P">({%CITD%}), same as {%ma%}ṟ{%uturu,%} the identification of the two
@@ -38489,7 +38489,7 @@
 <LEND>
 
 <L>7157<pc>409<k1>AqippaccE<k2>Aqi-ppaccE
-{%āḍi-ppaccai%}¦ (SITI), Tamil; probably, perquisities payable
+{%āḍi-ppaccai%}¦ (SITI), Tamil; probably, prerequisites payable
 <div n="lb">in grain in the month of {%Āḍi%} after the harvest.
 <LEND>
 
@@ -40130,7 +40130,7 @@
 <LEND>
 
 <L>7492<pc>424<k1>ulvari<k2>ul-vari
-{%uḻ-vari%}¦ (SITI), Tamil; internal revenued; taxes levie
+{%uḻ-vari%}¦ (SITI), Tamil; internal revenue; taxes levied
 [Page-425+ 40]
 <div n="lb">by the local body; same as {%antar-āyam;%} orders issued by the
 <div n="lb">government fixing the amount of such taxes.

@@ -1,5 +1,6 @@
 29:aBIzwadevatA:tulelary:tutelary
 ;scan error
+; jim:  change not made. I changed
 96:aDikArameleLuttu:revisional:OK
 108:ADipatra:amortgage:a mortgage
 ;scan error
@@ -18,6 +19,7 @@
 ;scan error
 875:BARqaBftavahitra:wagonfull:wagonful
 ;scan error
+; jim:  Sampada changed to 'wagon full'  OK
 970:BogikapAla:cesscollector:cess collector
 ;scan error
 992:Bfta:wagonful:OK
@@ -95,6 +97,7 @@
 2927:kumAravftti:occury:occurs
 ;scan error
 ;<occurs> seems to fit the context
+;jim agree
 2973:kuwumbin:ryot:OK
 3002:lANgaqi:cartful:OK
 3023:liNga:emlem:emblem
@@ -128,10 +131,13 @@
 3795:niravakara:nett:OK
 3818:niryAmaka:licenced:licensed
 ;scan error
+; jim Sampada forgot to change. I changed
 3841:nivartana:localties:localities
 ;scan error
+; jim: sampada forgot to change. I changed.
 4007:paYcakarmAra:brassmith:OK
 ;I could not find this word but it is a possibility
+; jim. Similar to metalsmith. Found one dictionary 'brass-smith'. Agree OK
 4048:paYcavAra:producc:produce
 4229:pAtAla:indicare:indicate
 ;scan error
@@ -140,6 +146,7 @@
 4417:prabanDa:hymnical:hymnal
 ;scan error
 ;I could not find <hymnical> as an alternate spelling
+; jim: another possibility is 'hymnic'.  hymnal also ok.
 4479:prapA:trought:trough
 4527:pratihAra:inditer:OK
 4565:pratiSUrika:gladitorial:gladiatorial
@@ -195,6 +202,8 @@
 ;scan error
 6743:vfdDikukkuwa:caponed:OK
 ;unsure
+; jim.  a 'capon' is castrated domestic rooster.  So I guess 'caponed'
+; is a reasonable word for 'castrated'.  Agree with OK.
 6771:vyAzeDa:countrary:contrary
 ;scan error
 6954:parihftapaNgotkowa:saparately:separately
@@ -205,6 +214,7 @@
 ;vague scan
 7157:AqippaccE:perquisities:prerequisites
 ;scan error
+; jim. Sampada forgot to change. I changed.
 7159:AqukkalEppuram:enowment:endowment
 ;scan error
 7190:ASuvikalkAsu:maintaing:maintaining
@@ -221,8 +231,10 @@
 ;scan error
 7492:ulvari:revenued:revenue
 ;scan error
+; jim. Sampada forgot to change. I changed.
 7492:ulvari:levie:levied
+; jim. ditto.
 ;scan error
 7601:daric:fourt:four
-;scan error
 ;another error <time> corrected to <times>
+; jim. I think this is a typo.
