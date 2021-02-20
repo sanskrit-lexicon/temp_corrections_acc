@@ -5,9 +5,13 @@
 ;scan error
 282:apatiGnI:acet:acct
 297:apAra:acet:acct
+; jim: acct is an abbreviation in Lanman for 'accent'.  
+; These two were missed. Now marking these as `<ab>acct</ab>,`
 352:amA:chez:OK
 374:ayas:ferreus:ferreous
 ;scan error
+; jim:  Changing back to 'ferreus'. Latin.
+; ref:  http://www.latin-dictionary.net/search/latin/ferreus
 516:asutfp:vbl:OK
 517:asunIti:spiritworld:spirit-world
 597:Atmaka:murdernatured:murder-natured
@@ -21,10 +25,18 @@
 747:Ikz:absehen:OK
 758:IS:preteritopresent
 ;this word to be deleted
+; Jim: NO -- it is part of text.
+; However, the markup '<lbinfo n="preterito-present"/>' DOES need to be
+;  removed. Reason:  In several other places in Lanman, we see the
+;  hyphenated word 'preterito-present'. This is probably Lanman's spelling
+;  of the more common 'preterite-present',  a verb tense.
 778:ujjayinI:ujjayin:OK
 786:uttara:castward:eastward
 873:uBa:bajos:OK
-;<bajoϸs> acc to scan
+;<bajoÏ¸s> acc to scan
+; That ϸ is a Greek letter.  But it occurs in a 'word' with Latin letters,
+;  and is apparently a spelling of a 'Gothic language' word.
+; Thus, changing 'bajo<lang n="greek">ϸ</lang>' to 'bajoϸs'.
 891:usra:yeardawn:year-dawn
 983:oMkfta:accompanled:accompanied
 ;scan error
@@ -35,8 +47,8 @@
 ;scan error
 1101:kArya:faciendus:OK
 1169:kf:facere:OK
-1169:kf:rootform
-1169:kf:conficere:root-form
+1169:kf:rootform:root-form
+1169:kf:conficere:OK
 1171:kf:bestrown:OK
 1207:kxp:serviccable:serviceable
 1249:kruDmi:paroxytone:OK
@@ -44,6 +56,7 @@
 1308:Kala:tertium:OK
 1308:Kala:comparationis:comparations
 ;scan error
+; jim. I think that 'comparationis' is Latin, so this is OK. Have changed back.
 1312:KAditavya:edendus:OK
 1338:gati:eventus:OK
 1341:gantavya:eundum:OK
@@ -57,29 +70,40 @@
 1497:cAturmAsya:scasons:seasons
 1547:cyu:agoing:OK
 1566:jaWara:kilei:OK
-;<kilϸei> acc to scan
+;<kilÏ¸ei> acc to scan
+; jim:  This is that ϸ character in a Gothic word -- like above
 1567:jan:ortus:OK
 1575:janus:ingenium:OK
 1651:jyAyAMs:vbl:OK
 1653:jyezWa:vbl:OK
+; jim 'vbl' is an abbreviation.  Usually, when followed by a period ('vbl.'),
+; we have marked as abbreviation: <ab>vbl.</ab>.  However, in at least
+; 9 cases (like these two, there is no period.
+; I am marking these as abbreviations <ab>vbl</ab> and will need to
+; adjust lan
 1709:tan:unrian:OK
 1709:tan:onar:OK
-;<ϸonar> acc to scan
+;<Ï¸onar> acc to scan
 1710:tanu:decl:OK
 1722:tap:efian:OK
-;Latin <ϸefian> acc to scan
+;Latin <Ï¸efian> acc to scan
+; jim.  This is that ϸ letter again.  Treat it as above
+;  e.g. '<lang n="greek">ϸ</lang>unor' => 'ϸunor'
 1734:taraMga:grd:OK
+; jim 'grd.' is abbreviation. Lanman forgot the period here.
+; mark as <ab>grd</ab>, and add 'grd' (without period) as abbreviaion in lanab.
 1790:tf:rootvowel:root-vowel
 1806:tya:ille:OK
 1829:trirAtra:trinoctium:OK
 1880:dant:tunus:OK
-;<tunϸus> acc to scan
+;<tunÏ¸us> acc to scan
+; jim: that ϸ in a Gothic word -- see above
 1919:dAtavya:dandus:OK
 1923:dAnava:focs:foes
 1951:divOkas:caelicola:OK
 1986:durBikza:almsgetting:alms-getting
 2068:doza:faute:OK
-2116:dviz:prothetic
+2116:dviz:prothetic:OK
 2145:DarmaSAstra:compend:OK
 2149:DA:proethnic:OK
 2181:DUsara:dustcolored:dust-colored
@@ -87,6 +111,7 @@
 2218:nada:bellower:OK
 2232:namas:gloria:OK
 2262:naS:reicht:OK
+; jim: German
 2361:nIla:indigoplant:indigo-plant
 2380:nfmRa:virtus:OK
 2423:paRi:chafferer:OK
@@ -107,15 +132,17 @@
 2613:punaHsara:revenant:OK
 2620:puraskArya:praeficiendus:OK
 2621:purastAt:afore:OK
-2663:pf:peretu
+2663:pf:peretu:OK
 2663:pf:wellbridged:well-bridged
 2677:pfTu:flae:OK
-;<flaϸe> acc to scan
+;<flaÏ¸e> acc to scan
+; Jim: ϸ again
 2679:pfzadAjya:speekled:speckled
 2682:pfzWatas:tergo:OK
 2794:prastara:stramentum:OK
 2814:prAtar:morgen:OK
 2862:barbara:balbutiens:OK
+; jim: Italian?
 2864:barhiRa:transitionstem:transition stem
 2866:barhis:offerers:OK
 2866:barhis:vulsum:OK
@@ -126,7 +153,10 @@
 2961:Bara:pondus:OK
 3006:BI:affright:OK
 3006:BI:beofa:OK
-;<beofað> acc to scan
+;<beofaÃ°> acc to scan
+;jim: Similar to that ϸ, but this time ð
+; There are 22 instances, changed all from '<lang n="greek">ð</lang>' to 'ð'
+;  These are all Lanman spellings of 'AS.' (Anglo-Saxon) words.
 3006:BI:afeard:OK
 3015:Buj:geniessen:OK
 3016:BujaMgama:grd:OK
@@ -147,7 +177,7 @@
 3129:mantraya:prosequi:OK
 3129:mantraya:vocibus:OK
 3140:manmaTa:distresser:OK
-3145:maya:magie:OK
+3145:maya:magie:magic
 3157:martavya:moriendum:OK
 3165:malla:pancratiast:OK
 3169:mah:clated:elated
@@ -160,14 +190,15 @@
 3297:muKa:caput:OK
 3321:mUlya:eapital:capital
 3327:mf:moror:OK
-;morðor acc to scan
+;morÃ°or acc to scan
+; jim: that ð again in AS. word
 3331:mfj:streifen:OK
 3337:mfd:erush:crush
 3364:ya:possit:OK
 3368:yakzma:sinavenging:sin-avenging
 3369:yaj:einem:OK
 3369:yaj:etwas:OK
-3387:yatna:cffort
+3387:yatna:cffort:effort
 3389:yaTA:wishest:OK
 3408:yad:knoweth:OK
 3408:yad:wenn:OK
@@ -177,6 +208,7 @@
 3414:yama:pitaras:OK
 3433:yAma:cireuit:circuit
 3442:yugapad:epd:OK
+; jim: 'cpd'  (abbreviation of compound)
 3444:yuj:yojayati:{@yojayati@}
 3488:rajas:dwelleth:OK
 3530:rAjYI:rannee:OK
@@ -212,7 +244,8 @@
 3986:vf:wol:OK
 ;it says that this is old English
 3996:vft:weoran:OK
-;scan shows weorðan
+;scan shows weorÃ°an
+; jim: another ð is AS. word
 4008:vfdDa:altus:OK
 4011:vfD:altus:OK
 4015:vfzan:castruted:castrated
@@ -269,12 +302,15 @@
 4769:snAyu:presentstem:present stem
 ;scan error acc to me should be 2 separate words
 ;they are hyphenated in digital entry
+; jim: changed to 'present-stem' since this occurred at line break.
 4811:svan:singeth:OK
 4815:svapas:wonderworking:wonder-working
 4819:svaBAva:ingenium:OK
 4840:svastyayana:luckprogress:luck-progress
 4856:ha:asseveratives:asseverations
 ;dictionary shows <asseverations>
+; jim:  Found 'asseverative' . So reverting to asseveratives
+;   Actually, I see you left as 'asseveratives' !
 4857:haMsa:consonantal:OK
 4857:haMsa:derivational:OK
 4863:hantavya:occidendus:OK
