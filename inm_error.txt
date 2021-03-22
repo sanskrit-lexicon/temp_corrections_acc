@@ -1,3 +1,4 @@
+; Corrections examined by Sampada/Jim.  03-21-2021
 17:aBimanyuvaDaparvan:erush:crush
 ;scan error
 18:ABIra:catastroplle:catastrophe
@@ -14,9 +15,9 @@
 214:agastya:incensorum:OK
 214:agastya:urceum:OK
 214:agastya:profluente:OK
-280:ahovIrya:rehunciation:renunciation
+280:ahovIrya:rehunciation:renunciation 
 316:EzIkaparvan:despatches:OK
-316:EzIkaparvan:procced:proceed
+316:EzIkaparvan:procced:proceed 
 ;scan vague
 386:alambuza:genealogized:OK
 442:aMSAvataraRa:ambhavaparvan:OK
@@ -60,7 +61,8 @@
 2319:Sala:desirons:desirous
 2328:SAlakawaNkawa:uprooten:uprooted
 ;scan error
-2541:SatAnIka:fect
+2541:SatAnIka:fect:feet
+; jim added: not sure 'feet' makes sense. unclear scan.
 2725:SrIvAsavasaMvAda:righteeusness:righteousness
 ;vague scan
 3666:drOpadIsamBava:comest:OK
