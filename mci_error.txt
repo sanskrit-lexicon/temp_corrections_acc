@@ -26,7 +26,7 @@
 ;scan error
 504:padma:extremly:extremely
 ;scan error
-526:prasvApa:forbade:forbade
+526:prasvApa:forbad:forbade
 ;scan error
 529:bArhaspatya:particuiar:particular
 ;scan error
@@ -39,18 +39,22 @@
 584:vEzRavAstra:accroding:according
 619:sudarSana:bence:hence
 ;scan error
-619:sudarSana:lieked
+619:sudarSana:lieked:licked
 ;scan error
 ;could not find correct word
+; jim: changed to  licked.  Below this the sudarSana cakra is said
+;  to 'drink' -- so 'lick' seems possible.
 643:aSmagIta:shold:should
 643:aSmagIta:acquistition:acquisition
 ;scan error
+; jim changed.
 673:fzivaMSa:eflective:effective
 ;scan error
 673:fzivaMSa:endling:ending
 ;scan error
 699:jawAsuravaDa:suppossd:supposed
 ;scan error
+; jim changed.
 740:pOloma:hunded:hundred
 ;scan error
 753:BArata:gitfed:gifted
@@ -109,8 +113,10 @@
 1108:kAmyaka:maneating:man-eating
 ;I think this word should be hyphenated
 ;if right this is a scan error
+; jim agree
 1168:kElAsa:proptiated:propitiated
 ;scan error
+; jim changed
 1183:kOSikI:uncovetous:OK
 1188:gaNgA:settlemeni:settlement
 ;vague scan
@@ -128,6 +134,7 @@
 ;scan error
 1198:ganDamAdana:palmlengths:OK
 ;cannot ascertain this is a mistake
+; jim agree with OK
 1351:nandana:themseleves:themselves
 ;scan error
 1381:payozRI:pleasent:pleasant
@@ -157,8 +164,9 @@
 ;scan error
 1700:vEtaraRI:bareft:bereft
 ;scan error
-1733:SivodBeda:deseart:dessert
+1733:SivodBeda:deseart:desert
 ;scan error
+; jim change: dessert is sweet course of meal; desert is barren place.
 1749:Sveta:parasole:OK
 1768:sarasvatI:waw:was
 1768:sarasvatI:wnet:went
@@ -196,6 +204,7 @@
 1932:nandASrama:cetics:OK
 ;this is second half of a work separated due to line break
 ;the previous line should be corrected from <as> to <as->
+; jim agree
 1953:prAgjyotiza:procecded:proceeded
 ;scan error
 1954:badarI:journy:journey
@@ -218,8 +227,9 @@
 ;scan error
 2013:vAraRAvata:fune:fune-
 ;scan error
-2061:sADyagaRasya:temle:OK
-2071:sOBa:wrere:whereupon
+2061:sADyagaRasya:temle:temple
+;jim changed. scan error
+2071:sOBa:wrere:where
 ;scan error
 2074:hAstinapura:adverseries:adversaries
 ;scan error
@@ -241,6 +251,7 @@
 ;scan error
 2225:kuru:forebearance:forbearance
 ;scan error
+; jim changed
 2225:kuru:pominent:prominent
 ;scan error
 2226:kurukzetra:inspite:in spite
@@ -249,13 +260,15 @@
 ;scan error
 2260:krOYcadvIpa:theor
 ;unsure
+; jim also unsure
 2279:cedi:familes:families
 ;scan error
 2307:trigarta:brothets:brothers
 ;scan error
 2307:trigarta:nightwar:night war
 ;scan error
-2323:dasyu:coersion:OK
+2323:dasyu:coersion:coercion
+; jim scan error
 2323:dasyu:possesions:possessions
 ;scan error
 2323:dasyu:eveywhere:everywhere
@@ -290,6 +303,7 @@
 2429:madra:unauspicious:OK
 ;the more common usage is <inauspicious>
 ;it seems like this spelling could be acceptable
+; jim agree
 2429:madra:especialy:especially
 ;scan error
 2460:mAlava:abondon:abandon
@@ -333,6 +347,7 @@
 2598:suvIra:treaded:OK
 ;as per scan clearly <treaded>
 ;commonly used option is <trod>, but possibility of <treaded> being an obsolete usage
+; jim agree OK
 2600:suhma:harrassed:harassed
 ;scan error
 2601:sfYjaya:andor:and/or
