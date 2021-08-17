@@ -1,133 +1,162 @@
-148:awwa:sollar
-648:apamArga:sideway
-932:ambu:seasame
-1393:Agantuka:estray
-1618:Amoda:fragrancy
-1789:As:spir
-1846:iNguda:catappa
-1886:iz:imprt
-2107:udarin:hydropic
-2215:upakAraka:benefitted
-2288:upapatti:auitable
-2475:usar:identic
-2623:etad:demonst
-2658:ENguda:inguda
-2861:kaTA:prodosis
-2915:kapAla:glene
-2940:kamala:xcv
-2971:karamarda:acanthaceous
-3005:karRa:picta
-3260:kAmya:benefitting
-3269:kAraRa:oru
-3465:kukkuwa:heptaphyllon
-3476:kuYc:cuc:Latin
-3476:kuYc:hucke:NHG
-3476:kuYc:huckeback:NHG
-3712:kftisADyatva:accomplishable
-3716:kftya:bribable
-3830:kodrava:scrobiculatum
-4062:kzip:partcple
-4636:graha:mohout
-5039:cIrRa:ptcptle
-5050:cuww:dialetical
-5124:cozya:ptcle
-5250:jan:predestinated
-5590:wiwwiBa:jacuna
-5861:tiktaka:dioica
-5861:tiktaka:cerayta
-5861:tiktaka:sative
-6071:tElapAyin:bettle
-6427:dArva:zantorhiza
-6494:diS:inchoat
-6634:dUrUQatva:cicatrisation
-6661:dfS:unrighteously
-6982:DA:disagrecable
-7166:nagara:fata
-7193:nanda:toona
-7283:nahi:enim
-7301:nAqikA:sideral
-7571:nirGaRwaka:euphonical
-7919:pakva:indigested
-7928:pakzavant:hoble
-7988:pawala:coverture
-8020:pat:reduplicat
-8075:padmaka:arabicus
-8136:parA:sideward
-8264:pariDi:anthelia
-8372:parivAha:brimfull
-8565:pAcana:cataplasm
-8620:pAtra:handfulls
-8776:pASupAlya:grazier
-8786:piNgala:fuscous
-8796:picCila:lubricous
-9210:pEtta:biliary
-9229:potaka:macrourus
-9285:pOzkara:speciousus
-9921:prasAda:haviour
-9982:prAcetasa:descendaut
-10123:proTa:prusten
-10128:prOQi:andacious
-10219:banD:bindan
-10332:buD:cognoscible
-10345:bus:effund
-10577:Bid:indestractible
-10608:Buj:inflexed
-10609:Buj:foed
-10630:BU:ringle
-10663:BUstfRa:schaenanthus
-10922:manas:adde
-11047:mala:silvergilt
-11119:mA:admeasure
-11166:mAtra:corpreal
-11758:yAjaka:asterims
-11817:yuj:regligent
-11817:yuj:cocrce
-11837:yuvan:junix
-11930:rajas:menstrnate
-11935:rajju:fotter
-12002:rava:crotolaria
-12171:ruSant:imprecative
-12278:lakzaRa:unimpertant
-12309:laNGana:curvetting
-12369:lavaRa:artificia
-12748:variza:hypothet
-12782:varti:bougie
-12937:vA:seent
-13050:vArAha:boarish
-13163:vikalpa:discretional
-13266:viwa:pathic
-13306:vid:resing
-13466:viBAva:excitant
-13747:visaMvAdin:incontestible
-13759:visUcikA:colera
-13906:vfD:gratulation
-13938:ve:waefels
-13995:vela:surgy
-14043:vERika:lutist
-14255:vyApakatva:pervadence
-14375:Sakra:antidysentericum
-14383:SaNku:instraument
-14399:SaWa:perfidions
-14425:SatruGna:utt
-14506:Saru:thunderblot
-14522:Sal:bublling
-14522:Sal:spirt
-14604:SAmana:tranel
-14611:SAra:greyand
-14831:SUka:spicula
-14860:SfNga:silurus
-15435:sad:concounter
-15482:saMdAna:tieing
-15994:sADana:dele
-16008:sADyavant:probandi
-16069:sAra:marrew
-16076:sAraTya:charioteering
-16081:sArasa:sibirica
-16192:su:finitum
-16430:sOjanya:magnanimousness
-17010:harItaka:chebulic
-17062:hA:sinped
-17082:hAridrava:zanthorizon
-17134:hima:himernus
-17185:hf:yare
-17305:hlAd:splendens
+148:awwa:sollar:OK
+648:apamArga:sideway:OK
+;by-way is a more common usage but <sideway> should be ok
+932:ambu:seasame:sesame:typo
+1393:Agantuka:estray:OK
+1618:Amoda:fragrancy:OK
+;outdated usage
+1789:As:spir:OK
+;abbreviation
+1846:iNguda:catappa:OK
+1886:iz:imprt:OK
+;abbreviation
+2107:udarin:hydropic:OK
+2215:upakAraka:benefitted:OK
+2288:upapatti:auitable:suitable:typo
+;scan was vague
+2475:usar:identic:OK
+;same as identical
+2623:etad:demonst:OK
+;abbreviation
+2658:ENguda:inguda:OK
+;sanskrit word
+2861:kaTA:prodosis:protasis:scan error
+2915:kapAla:glene:OK
+2940:kamala:xcv:OK
+2971:karamarda:acanthaceous:OK
+3005:karRa:picta:OK
+3260:kAmya:benefitting:OK
+3269:kAraRa:oru:OK
+3465:kukkuwa:heptaphyllon:OK
+3476:kuYc:cuc:OK
+;Latin
+3476:kuYc:hucke:NHG:OK
+3476:kuYc:huckeback:NHG:OK
+3712:kftisADyatva:accomplishable:OK
+3716:kftya:bribable:OK
+3830:kodrava:scrobiculatum:OK
+4062:kzip:partcple:OK
+;abbreviation
+4636:graha:mohout:OK
+;not English
+5039:cIrRa:ptcptle:OK
+;abbreviation
+5050:cuww:dialetical:dialectical:scan error
+5124:cozya:ptcle:OK
+;abbreviation
+5250:jan:predestinated:OK
+5590:wiwwiBa:jacuna:OK
+5861:tiktaka:dioica:OK
+5861:tiktaka:cerayta:cherayta:typo
+5861:tiktaka:sative:sativa:typo
+6071:tElapAyin:bettle:beetle:typo
+6427:dArva:zantorhiza:OK
+6494:diS:inchoat:OK
+6634:dUrUQatva:cicatrisation:OK
+6661:dfS:unrighteously:OK
+6982:DA:disagrecable:disagreeable:scan error
+7166:nagara:fata:OK
+7193:nanda:toona:OK
+7283:nahi:enim:OK
+7301:nAqikA:sideral:sidereal:scan error
+7571:nirGaRwaka:euphonical:OK
+7919:pakva:indigested:OK
+;archaic usage
+7928:pakzavant:hoble:noble:typo
+7988:pawala:coverture:OK
+8020:pat:reduplicat:OK
+8075:padmaka:arabicus:OK
+8136:parA:sideward:OK
+8264:pariDi:anthelia:OK
+8372:parivAha:brimfull:OK
+8565:pAcana:cataplasm:OK
+8620:pAtra:handfulls:OK
+8776:pASupAlya:grazier:OK
+8786:piNgala:fuscous:OK
+8796:picCila:lubricous:OK
+9210:pEtta:biliary:OK
+9229:potaka:macrourus:OK
+9285:pOzkara:speciousus:speciosus:typo
+9921:prasAda:haviour:OK
+;word broken due to line break
+;another correction <be> corrected to <be->:scan error
+9982:prAcetasa:descendaut:descendant:scan error
+10123:proTa:prusten:OK
+10128:prOQi:andacious:audacious:typo
+10219:banD:bindan:OK
+10332:buD:cognoscible:OK
+10345:bus:effund:OK
+;archaic usage
+10577:Bid:indestractible:indestructible:typo
+;scan is very unclear
+10608:Buj:inflexed:OK
+10609:Buj:foed:food:scan error
+;scan is very unclear
+10630:BU:ringle:OK
+10663:BUstfRa:schaenanthus:OK
+10922:manas:adde:OK
+11047:mala:silvergilt:OK
+;most commonly found as <silver gilt> or <silver-gilt>
+11119:mA:admeasure:OK
+11166:mAtra:corpreal:corporeal:typo
+11758:yAjaka:asterims:asterisms:scan error
+11817:yuj:regligent:negligent:scan error
+11817:yuj:cocrce:coerce:typo
+;scan was quite vague
+11837:yuvan:junix:OK
+11930:rajas:menstrnate:menstruate:scan vague
+11935:rajju:fotter:fetter:scan error
+12002:rava:crotolaria:crotalaria:scan error
+12171:ruSant:imprecative:OK
+12278:lakzaRa:unimpertant:unimportant:scan error
+12309:laNGana:curvetting:OK
+12369:lavaRa:artificia:artificial:scan error
+12748:variza:hypothet:OK
+;abbreviation
+12782:varti:bougie:OK
+;French word
+12937:vA:seent:scent:scan vague
+13050:vArAha:boarish:OK
+13163:vikalpa:discretional:discretionary:scan error
+;I could not find <discretional> as an acceptable word
+13266:viwa:pathic:OK
+13306:vid:resing:resign:typo
+13466:viBAva:excitant:OK
+13747:visaMvAdin:incontestible:OK
+13759:visUcikA:colera:cholera:typo
+13906:vfD:gratulation:OK
+13938:ve:waefels:OK
+13995:vela:surgy:OK
+14043:vERika:lutist:OK
+14255:vyApakatva:pervadence:OK
+14375:Sakra:antidysentericum:OK
+14383:SaNku:instraument:instrument:typo
+;scan unclear
+14399:SaWa:perfidions:perfidious:typo
+;scan vague
+14425:SatruGna:utt:Utt:typo
+14506:Saru:thunderblot:thunderbolt:typo
+14522:Sal:bublling:bubbling:typo
+14522:Sal:spirt:spurt:scan error
+14604:SAmana:tranel:transl:typo
+;an abbreviation
+14611:SAra:greyand:grey and:scan error
+14831:SUka:spicula:OK
+14860:SfNga:silurus:OK
+15435:sad:concounter:encounter:typo
+;scan vague
+15482:saMdAna:tieing:tying:scan error
+15994:sADana:dele:dele':typo
+;uncertain
+16008:sADyavant:probandi:OK
+16069:sAra:marrew:marrow:scan vague
+16076:sAraTya:charioteering:OK
+16081:sArasa:sibirica:OK
+16192:su:finitum:OK
+16430:sOjanya:magnanimousness:OK
+17010:harItaka:chebulic:OK
+17062:hA:sinped:snipped:scan error
+17082:hAridrava:zanthorizon:OK
+17134:hima:himernus:OK
+17185:hf:yare:OK
+17305:hlAd:splendens:OK
