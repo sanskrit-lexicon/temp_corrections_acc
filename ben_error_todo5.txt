@@ -37,8 +37,10 @@
 3830:kodrava:scrobiculatum:OK
 4062:kzip:partcple:OK
 ;abbreviation
-4636:graha:mohout:OK
+; 4636:graha:mohout:OK
 ;not English
+4636:graha:mohout:mahout
+; jim scan error   
 5039:cIrRa:ptcptle:OK
 ;abbreviation
 5050:cuww:dialetical:dialectical:scan error
